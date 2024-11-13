@@ -1,0 +1,3 @@
+se(agua<10){
+        imprime("Nivel baixo de água")
+    }
